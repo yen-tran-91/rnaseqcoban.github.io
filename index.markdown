@@ -23,7 +23,7 @@ Single cell RNA-seq (scRNAseq) là một trong những công nghệ hàng đầu
 
 ## Về khóa học
 
-Ngày nay, chúng ta có thể thu được dữ liệu phiên mã của toàn bộ bộ gene từ các tế bào bằng cách sử dụng kỹ thuật giải trình tự thông lượng cao (scRNA-seq). Ưu điểm chính của scRNA-seq là nó đạt được độ phân giải ở cấp độ tế bào và phạm vi rộng lớn (toàn bộ bộ gene) giúp giải quyết các vấn đề còn hạn chế ở các phương pháp khác. Ví dụ như RNA-seq số lượng lớn (Bulk RNA-seq) hoặc RT-qPCR từng tế bào (single cell RT-qPCR). Mặc dù vậy, để phân tích được dữ liệu scRNA-seq, chúng ta cần phải nắm được các phương pháp tính toán mới và hiểu rõ vai trò của từng phương pháp đối với câu hỏi sinh học bạn đang trả lời.
+Ngày nay, chúng ta có thể thu được dữ liệu phiên mã của toàn bộ bộ gene từ các tế bào bằng cách sử dụng kỹ thuật giải trình tự thông lượng cao (scRNA-seq). Ưu điểm chính của scRNA-seq là nó đạt được độ phân giải ở cấp độ tế bào và phạm vi rộng lớn (toàn bộ bộ gene) giúp giải quyết các vấn đề còn hạn chế ở các phương pháp khác. Ví dụ như RNA-seq số lượng lớn (Bulk RNA-seq) hoặc RT-qPCR từng tế bào (single cell reverse transcriptase - quantitative PCR). Mặc dù vậy, để phân tích được dữ liệu scRNA-seq, chúng ta cần phải nắm được các phương pháp tính toán mới và hiểu rõ vai trò của từng phương pháp đối với câu hỏi sinh học bạn đang trả lời.
 
 Trong khóa học này, chúng ta sẽ thảo luận về một số câu hỏi có thể được giải quyết bằng cách sử dụng scRNA-seq, cũng như các phương pháp tính toán và thống kê có sẵn. Khóa học được dịch từ đơn vị đào tạo Tin sinh học của Đại học Cambridge, và các tài liệu trong trang này có thể được sử dụng bởi bất kỳ ai quan tâm đến việc tìm hiểu và phân tích dữ liệu scRNA-seq.
 
@@ -36,6 +36,6 @@ Trong tương lai, có thể chúng tôi sẽ cần thêm các bạn cộng tác
 | Tên       | Email |
 | ----------- | ----------- |
 | Phạm Trường Duy| phamduychv94@gmail.com|
-| Yen Tran| @gmail.com|
+| Trần Thị Hải Yến (Yen Tran)| tranyen.qtsinh@gmail.com|
 
 
